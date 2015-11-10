@@ -14,8 +14,7 @@ To evaluate and analyse the performance and enjoyment of a player when playing v
 
 Objectives:
 
-•	Explore and analyse different forms of crowds that would be best to use and evaluate with players in test scenarios 
-composed within a literature review.
+•	Explore and analyse different forms of crowds that would be best to use and evaluate with players in test scenarios composed within a literature review.
 
 •	Investigate and understand the different variables crowds could introduce to the players gaming experience, determining whether or not there is a fixed mechanic the crowd provides to enhance the players gaming experience
 
@@ -39,6 +38,7 @@ The concept of non-players is interesting within this project, because there wil
 
 Crowds are present in a number of forms and so are performers, the relationship between the two can vary depending on the situation and format in which the performance is presented to the audience in. The ‘humanaquarium’ project looked into a different way to present a performance to the audience with different ways for audience to interact and participate. This project involved a movable performance space with two musicians performing inside the space which had a touch sensitive interface which allowed audience members to enter the performance frame and take an active role in the co-creation of a live audio-visual performance (Taylor et al. 2011). This project intended to allow the audience to interact with the performance in a new way, allowing the audience to directly participate with or alter the performance in a unique way that most individuals may not have seen before, allowing non-players roles to be changed in quite a drastic way considering the direct influence they could have on the performance.
 
+
 Methods
 
 Project Management Methods
@@ -47,9 +47,21 @@ Project Management Methods
 
 There are many different and effective project management tools and methods that would be suitable and effective to choose from in the production of this project, a Gantt chart would seem to be the most effective tool to produce for the purposes of this project, and it will be used to efficiently track the project, easily showing the progression as the project continues, displaying when different key points and milestones of the project have been completed, allowing the user to monitor the project ensuring that it is keeping to the project schedule. A task list will also be produced from the Gantt chart as it is a simplified adaptation of a Gantt chart which will simply keep all of the key information and milestones in a shortened list potentially integrated into a calendar as another useful tool to keep track of the milestones within the project life cycle. Brainstorming will be a small part of this project, but it will be an integral phase of the project, as it allows all potential ideas and information within the project to be plotted sorting the good from the bad and producing a list of all the best accumulated points which could be used within the project.
 
+With the project management tools that have or will be put in place for this project it is easier to split the project into different stages and sections so that progress can be made on different sections at a time. This allows each section to be timed and planned around the time scale of the project, ensuring that the project will be completed within the project life-cycle and adequate time can be allocated to each section, to make sure that each section is completed to the highest standard possible. With help from the Gantt chart it would seem that this project could be split into four major sections, consisting of: research, testing, evaluation and documentation. Each section has been allocated a specific amount of time that should be adequate considering the magnitude of each task, with these sections being split into separate parts again within the sections in the Gantt chart to allow the researcher to visually see the progress within each section, allowing time to be reallocated if the project seems to be falling behind schedule.
+
 Research Methods
 
 Extensive research will continue until the final completion of this project, there will be thorough research in to all of the key topics and areas of interest, mainly consisting of research into crowds and audiences, video games, social facilitation and player enjoyment and performance with the crowd influence. A great deal of effort will go into investigating these key fields to ensure that the findings of this project are accurate and relevant, looking into great detail on how the crowd/audience can affect the player’s performance, enjoyment and experience whilst playing the game.
+
+The research section has been split into four different sections to allow time to be allocated efficiently within the project, these sections are: crowd research, game research, testing/software research and design research.
+
+Crowd research will involve looking into different forms of crowds that can be present within different forms of media events, and the amount of influence that crowds can have or are given. For example crowds at a traditional English pantomime will have more influence with the performance over crowds observing a game of golf, this is because pantomime crowds are expected to feel like they are part of the performance, interacting directly with the talent on stage. Whereas crowds at a golf game are expected to be quite for a lot of the game to allow the players to concentrate when they are taking a shot, only providing encouragement once the shot has been taken.
+
+The game research section will consist of finding a game that will be suitable for the testing process of this project. A game will need to be selected depending on a number of factors, ensuring that the data collected from the tests are relevant, plentiful and adequate for the purposes of this project. The game will need to be engaging enough to keep the fascination of the spectators and players for the duration of the tests, while having some data that can be collected quantitatively such as wins/losses, game duration, lives lost etc. The game will also need to have attributes to ensure that there is not too much of a learning curve, it is imperative for the project that each game/round be unique to ensure that the player does not have a noticeable increase or decrease in skill level. In most games it is common that players would keep improving their skills in the game, starting out with little to no skill, progressing through getting better with each game. If the players are getting visibly better with each game in these tests then the data collected may not be completely accurate, it may not be the variables introduced into the game via this project that could factor their gameplay.
+
+Testing/software research would most likely be completed after the game and crowd research had been completed because it will take into account quite a few factors from both of them. Once the crowd research has been completed it will be clear to see what the project should look for when testing, looking into which factors the crowd can add to the influence in game play. Once the game research has been completed the software can be acquired and set up for the testing, including the game that will be played throughout the tests.
+
+Design research will look into designing a number of different tools throughout the initial testing, including such things as, questionnaires, interviews, possible programs that could be developed for the purposes of this project, possible game design documents that could be produced as a result of this project and of course the report that will be completed at the end of this project.
 
 Development Methodology
 
@@ -66,6 +78,7 @@ Quantitative research is research involved with data that can be collected in a 
 Qualitative Research
 
 Qualitative research investigates all the how’s and why’s of decision making, this method can get more detailed answers from questions other than mathematical or statistical data, looking for more than the what, when, where and who. Qualitative research is most commonly collected in the form of an interview, this will be useful for the purposes of this project because there is more than just game data that can be useful to collect in this project, data such as the amount of enjoyment/pressure etc. that the player got from each different game with each different crowd, it would be useful to collect a descriptive response for these questions as there may be more data collected from the players perspective, rather than just a numerical value assigned to the levels of enjoyment/pressure etc.
+
 Indications of milestones and time frames
 
 A Gantt chart has been composed to enforce the structure of this project, ensuring that each task that needs to be completed for the project can and will be done with as much time and effort possible, ensuring that the project will be completed to the highest standard possible. The Gantt chart produced is an extremely useful tool for keeping track of the project and its estimated time frame, visualising when key parts of the project are completed, have to be completed and are estimated to be completed, allowing the user to easily see their progression through the project, letting them see if they are falling behind are if they are ahead of schedule at a glance. At the current stage of this project all of the planned start and finish points for each milestone have been plotted and work has started on a number of these elements, the Gantt chart will be updated during each week of the project to make sure the project stays within its current time frame.
@@ -117,3 +130,36 @@ Kumar, P. (2005). Effective Use of Gantt chart for Managing Large Scale Projects
 Denzin, N. K. & Yvonna, S. (2005) The Sage Handbook of Qualitative Research. 3rd Edition. Thousand Oaks, CA: Sage. 
 
 Taylor, R., Schofield, G., Shearer, J., Wallace, J., Wright, P., Boulanger, P., & Olivier, P. (2011). humanaquarium: exploring audience, participation, and interaction. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 1117-1122). ACM.
+
+
+Notes
+Test scenario:
+User plays a game of Mario Kart/Rocket league 3 times, 1st time they play on their own (only other participants will be the other players), 2nd time they play with a small crowd (3-7 people) watching, 3rd time they play a game that is being streamed with a text chat on the same screen as the game play (crowd number could variate)
+The results of each scenario will be recorded and displayed against each other to see if the varying factors of the different crowds have any effect on the player’s performance during game play
+The results may look for things such as: did the player do better because the crowd provided some key information to the player, did they do worse because the crowd provided false information, did they do better because of positive encouragement from the crowd, did they do worse because of negative encouragement, did they try harder to win when there was a crowd, were they happier/sadder when the won/lost a game when the crowd was/wasn’t there, did the crowd’s reaction make them want to play the game more? (To get better to keep them encouraging them or to prove to them that they can do better), did the people in the crowd effect the way they played? (If its people they knew vs people they didn’t know would they play differently or would that effect their game play in any way? Does the age or sex of the crowd also become a factor, if the crowd is a similar age to the player would that affect them in any way, if the crowd had never seen or played the game could that also effect the player because of the crowds reactions not being that of a typical crowd member where they would most likely fully understand the rules and what is going on in the game), did the type of crowd effect the player (real people in the room with them vs a crowd of real people that can only communicate with them online through text chat), 
+Tests: solo game, solo & physical observers (friends), solo & twitch (online) observers (possibly friends too), lecture hall sized crowd
+
+What should the end goal be?
+A game designed where crowd participation is a key element? 
+Game designed could be a party game style of game (jackbox, Mario kart, smash)
+
+(Note – possibly investigate the impact that lets plays and streams have on the game industry market, are people more or less likely to purchase a game because they have already seen someone else play it)
+Factors in different games that can affect the game differently: music in horror games, trivia games have different sounds that play after a player does good or bad indicating that they have done so, some games give players doing better or worse better items, equipment or boosts depending on how well they’re doing (winning and losing streak in gta 5, shitty items for 1st place and good items for people in last in Mario kart etc…), 
+http://delivery.acm.org/10.1145/2160000/2159391/p188-consalvo.pdf?ip=212.219.220.116&id=2159391&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E0BEB79437DAF5AB9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=556269145&CFTOKEN=81733571&__acm__=1445955738_940c5e25a3e16b7e1ec2e05068ee1d25
+http://homepages.dcc.ufmg.br/~arlei/pubs/msdn12.pdf
+NON-PLAYERS
+IMMERSIVE EXPERIENCE
+Panas questionnaire
+Observational analysis – ethnography
+http://link.springer.com/chapter/10.1007/978-3-642-16020-2_36#page-1
+Manipulating crowd audio
+Generating audio from twitch chat
+Lecture hall crowd – manipulated (crowd signalled when to give applause, boo, cheer etc.) and non-manipulated
+https://hal.archives-ouvertes.fr/hal-00484097/document : Human Crowds and Groups Interactions: a Mean Field Games Approach
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.392.2278&rep=rep1&type=pdf Fans vs. Spectators: An Analysis of Those Who Attend Intercollegiate Football Games
+living room video gaming
+http://nms.sagepub.com/content/7/3/333.full.pdf Gaming at a LAN event: the social context of playing video games
+video games with friends
+A study into LAN gaming found that many gamers that attended a LAN event would play video games daily for around 2.6 hours, these gamers stated that they were motivated by social contact and a need to know more about the games as well as a competitive motive. This shows that there are a number of reasons that people would want to meet in large groups to watch and or play video games as a community
+http://www-personal.umich.edu/~prestos/Downloads/DC/Cottrelletal1968.pdf
+social facilitation in audiences
