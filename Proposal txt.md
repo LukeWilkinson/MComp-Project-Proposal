@@ -6,27 +6,56 @@ Abstract
 
 This project intends to explore and analyse the different effects and influences a crowd presents when video games are being played. With the many different forms of crowds in games there is a lot of room for exploration and investigation into this subject. It is rather uncommon these days for someone to have not been part of a video game crowd in some way, from playing games with friends or family and playing games online to watching lets plays, streamed games or e-sports. The intended result of this project is to analyse and evaluate the effects that a crowd has on a person when playing a game, to see if the different types of crowds effect the way that a person performs when playing a game, exploring what could stimulate a player to perform in what manner depending on the type of crowd and the feedback given from the crowd.
 
+Introduction
+
+what's the area, what's the need/motivation? - interesting, lead to design guidelines
+
+??? tell the story of this project, leads to the aim
+
 Aims and Objectives
 
 Aim:
 
-To evaluate and analyse the performance and enjoyment of a player when playing video games in front of different crowds, to see if their gaming experience or performance could be influenced by the reactions of the crowd.
+To evaluate and analyse the performance and enjoyment of a player when playing video games in front of different crowds, to see if their gaming experience or performance could be influenced by the reactions of the crowd. ???design guides?
 
 Objectives:
 
-•	Explore and analyse different forms of crowds that would be best to use and evaluate with players in test scenarios composed within a literature review.
+SUMMARY text, discussing the approach? ??? how many participants, what kind of data generated,
 
-•	Investigate and understand the different variables crowds could introduce to the players gaming experience, determining whether or not there is a fixed mechanic the crowd provides to enhance the players gaming experience
+??? Lit review
+  -  Explore and analyse different forms of crowds that would be best to use and evaluate with players in test scenarios composed.
+  - Investigate and understand the different variables crowds could introduce to the players gaming experience, determining whether or not there is a fixed mechanic the crowd provides to enhance the players gaming experience
 
-•	Analyse the effects that a manipulated crowd and manipulated crowd audio could have on the player.
 
-•	Produce a report composed of all the research and findings made as a result of the completed project.
+STUDY 1
+  ??? Study 1 planning - effect of manipulated crowd on the player. (provisional?? based on lit review outcomes)
+    ??? recruitment ???
+    ??? room bookings etc?
+  ??? Study 1 pilot testing & replanning
+  ??? Study 1 run
+  ??? Study 1 analyse
+
+STUDY 2
+  ??? Study 2 planning - effect of manipulated crowd audio on the player.
+  ??? Study 2 pilot testing & replanning
+  ??? Study 2 run
+  ??? Study 2 analyse
+
+
+Design guidelines
+
+Produce a report composed of all the research and findings made as a result of the completed project.
+
+
 
 Background
 
-Video games are game that are played electronically that provide a source of entertainment to the user, allowing them to simulate and relate to almost anything imaginable. Whether it be something as simple as playing a game of football or something as complex as fighting giant monsters in space (Grodal et al, 2000). With the recent raising craze of lets plays, streamers and e-sports it is clear to see that entertainment can come from watching someone else play video games as well as playing them, “in fact, in a recent social study, casual players were found to prefer watching professional gamers rather than playing the game themselves” (Kayoute et al, 2012). This is no real surprise as this has also been the case for real sports for years, it would seem that most people would watch more European football games than they would play for themselves, the average attendance at English football stadiums in 2014/2015 was in the 10,000’s, some reaching as high as 75,000 as an average (Heimspiel Medien GmbH & Co. 2014).
+??? headings to break up.
 
-Crowds can definitely vary in many different ways, one clear variation in a crowd is what side that it is routing for, is the side cheerig for you, or against you? Whether you’re playing against an opponent or not this could occur. This is clear to see in some formats, for instance, sports games will have two main types of attendees, home team supporters and away team supporters. It would not be unreasonable to assume that there would be more home team supporters as the game would be more accessible to those from the home town. A study into crowd effect on sport in performance found that the bigger the home crowds were would generally lead to a higher percentage of home team wins (Agnew and Carron, 1994). This can however work both ways, as the home team would presumably have more supporters spectating, this would also mean that there would be more pressure put to them to perform, giving the away team an advantage as there would be less disappointed physical spectators if they lost, and the satisfaction of home team discouragement (Hallam, 2014).
+Video games are game that are played electronically that provide a source of entertainment to the user, allowing them to simulate and relate to almost anything imaginable. Whether it be something as simple as playing a game of football or something as complex as fighting giant monsters in space (Grodal et al, 2000). With the recent raising craze of lets plays, streamers and e-sports it is clear to see that entertainment can come from watching someone else play video games as well as playing them, “in fact, in a recent social study, casual players were found to prefer watching professional gamers rather than playing the game themselves” (Kayoute et al, 2012). This is no real surprise as this has also been the case for real sports for years, it would seem that most people would watch more European football games than they would play for themselves, the average attendance at English football stadiums in 2014/2015 was in the 10,000’s, some reaching as high as 75,000 as an average (Heimspiel Medien GmbH & Co. 2014).Indications of milestones and time frames
+
+A Gantt chart has been composed to enforce the structure of this project, ensuring that each task that needs to be completed for the project can and will be done with as much time and effort possible, ensuring that the project will be completed to the highest standard possible. The Gantt chart produced is an extremely useful tool for keeping track of the project and its estimated time frame, visualising when key parts of the project are completed, have to be completed and are estimated to be completed, allowing the user to easily see their progression through the project, letting them see if they are falling behind are if they are ahead of schedule at a glance. At the current stage of this project all of the planned start and finish points for each milestone have been plotted and work has started on a number of these elements, the Gantt chart will be updated during each week of the project to make sure the project stays within its current time frame.
+rters. It would not be unreasonable to assume that there would be more home team supporters as the game would be more accessible to those from the home town. A study into crowd effect on sport in performance found that the bigger the home crowds were would generally lead to a higher percentage of home team wins (Agnew and Carron, 1994). This can however work both ways, as the home team would presumably have more supporters spectating, this would also mean that there would be more pressure put to them to perform, giving the away team an advantage as there would be less disappointed physical spectators if they lost, and the satisfaction of home team discouragement (Hallam, 2014).
 
 In the past few decades it has become more and more common that a person would be brought up with or would own a video game console, one study found that “more than two-thirds of all children ages 2-18 live in a home with a video game system” (Henry J. Kaiser Family Foundation, 2002). With growing up with video games being the norm now, it is understandable that most people are playing these games with friends, family or others online. Either taking turns, playing with or against or simply watching others play video games includes some kind of crowd, even if it is just with a small group of friends or family, and this social even is clearly a preferred form of entertainment in most households, shown by a study completed in 2013. The study found that 62% of the gamers played with others, either online on in person. 77% of which played with others at least an hour a week, mainly played with friends or family members (Entertainment Software Association, 2013).
 
@@ -34,7 +63,7 @@ Social facilitation is an interesting topic within this project, social facilita
 
 For this project there will a number of different types of audiences, self as audience (self-deliberation), small group of friends, audience on the web and a large audience. Each of these audiences could alter the performance of the player in a number of varying ways, each pose different factors that can put different amounts of pressure on the player to perform. For example, cheering and booing and other forms of encouragement or discouragement could make the player put different amounts of effort in to the game they are playing. If a player is being cheered on it is likely that they will try harder to keep up the crowd’s reaction, if the player is being booed then the opposite could happen and they may put less effort in to winning because they may not even get any appreciation or recognition from the audience if they win. Opposed to this if the player is being booed then they may put even more effort in to prove the crowd wrong and have the satisfaction of showing others that they are capable of completing a task even when everyone else is against them. If the player is on their own as a self-audience then the only people they are performing for is themselves so the only encouragement or discouragement they will receive will be from themselves. This project intends to determine which these theories of the outcomes of the different crowd participation scenarios are true and if there is a preferred audience that made the players excel in their performance, or if there was an audience that game them the most enjoyment from the game.
 
-The concept of non-players is interesting within this project, because there will be a crowd of people watching each game that not be playing the game, but could possibly influence the game in a number of ways. A non-player is someone who is present during a game that can have a varying amount of influence on the game in play, for example, a referee in a sports game has a lot of influence within the game even though they are not playing the game, they ensure that the game in play follows all the rules of the game. Another example would be the spectator, they can offer differing amounts of influence in a game, offering encouragement or discouragement to the players by cheering or booing, and they can also provide them with tactical information about the game through verbal and visual communication with the players (Montola et al, 2006). 
+The concept of non-players is interesting within this project, because there will be a crowd of people watching each game that not be playing the game, but could possibly influence the game in a number of ways. A non-player is someone who is present during a game that can have a varying amount of influence on the game in play, for example, a referee in a sports game has a lot of influence within the game even though they are not playing the game, they ensure that the game in play follows all the rules of the game. Another example would be the spectator, they can offer differing amounts of influence in a game, offering encouragement or discouragement to the players by cheering or booing, and they can also provide them with tactical information about the game through verbal and visual communication with the players (Montola et al, 2006).
 
 Crowds are present in a number of forms and so are performers, the relationship between the two can vary depending on the situation and format in which the performance is presented to the audience in. The ‘humanaquarium’ project looked into a different way to present a performance to the audience with different ways for audience to interact and participate. This project involved a movable performance space with two musicians performing inside the space which had a touch sensitive interface which allowed audience members to enter the performance frame and take an active role in the co-creation of a live audio-visual performance (Taylor et al. 2011). This project intended to allow the audience to interact with the performance in a new way, allowing the audience to directly participate with or alter the performance in a unique way that most individuals may not have seen before, allowing non-players roles to be changed in quite a drastic way considering the direct influence they could have on the performance.
 
@@ -54,6 +83,8 @@ Research Methods
 Extensive research will continue until the final completion of this project, there will be thorough research in to all of the key topics and areas of interest, mainly consisting of research into crowds and audiences, video games, social facilitation and player enjoyment and performance with the crowd influence. A great deal of effort will go into investigating these key fields to ensure that the findings of this project are accurate and relevant, looking into great detail on how the crowd/audience can affect the player’s performance, enjoyment and experience whilst playing the game.
 
 The research section has been split into four different sections to allow time to be allocated efficiently within the project, these sections are: crowd research, game research, testing/software research and design research.
+
+??? sub-headings
 
 Crowd research will involve looking into different forms of crowds that can be present within different forms of media events, and the amount of influence that crowds can have or are given. For example crowds at a traditional English pantomime will have more influence with the performance over crowds observing a game of golf, this is because pantomime crowds are expected to feel like they are part of the performance, interacting directly with the talent on stage. Whereas crowds at a golf game are expected to be quite for a lot of the game to allow the players to concentrate when they are taking a shot, only providing encouragement once the shot has been taken.
 
@@ -82,7 +113,7 @@ Qualitative research investigates all the how’s and why’s of decision making
 Indications of milestones and time frames
 
 A Gantt chart has been composed to enforce the structure of this project, ensuring that each task that needs to be completed for the project can and will be done with as much time and effort possible, ensuring that the project will be completed to the highest standard possible. The Gantt chart produced is an extremely useful tool for keeping track of the project and its estimated time frame, visualising when key parts of the project are completed, have to be completed and are estimated to be completed, allowing the user to easily see their progression through the project, letting them see if they are falling behind are if they are ahead of schedule at a glance. At the current stage of this project all of the planned start and finish points for each milestone have been plotted and work has started on a number of these elements, the Gantt chart will be updated during each week of the project to make sure the project stays within its current time frame.
- 
+
 Risk assessment
 
 Risks assessments help protect projects from falling into disrepair, they make sure to take into account any and every predictable fault, failure, error and unhandled expectation that may occur during the projects life cycle. For the purposes of this project the risk assessment will look into: scheduling, hardware, software and test subjects/user testing. Each and every possible risk will be taken into consideration and plans will be made and put into place to ensure that these risks do not affect the project and to ensure that there is a viable back up plan if these risks do stop the progression of the project.
@@ -94,7 +125,7 @@ Both software and hardware can be factors that could stop the progress of a proj
 Test subjects may be the most unpredictable risk within this project, the project requires test subjects to play or watch games at multiple stages, test subjects will be willing participants in this project and there may need to be a large number of test subject at different times during the project, organising a large crowd of people to meet at a single location at a specified time is not a straightforward task, there is no guarantee that all of the subjects will show up at the right place at the right time. Taking these factors into consideration there has been a large time frame allocated for testing purposes in case there are not enough subjects available to aid in the testing, there will also be a large number of people asked to participate in the test to ensure that if some test subjects do not show up during the tests then it will not have a dramatic impact on the project.
 
 General Risk	Risk Description	Risk Likelihood	Risk Impact	Solution
-				
+
 Project falls behind schedule	The possibility that the project falls behind schedule due to any number of varying circumstances	Low	Medium	A Gantt chart and project plan has been produced for the project, ensuring that there is more than enough time to complete each task
 
 Software/Hardware	Possible hardware or software failures that could delete work or stop the progress of work	Low	Low	Backups of the project will be made regularly on multiple platforms, and there are multiple university computers available to complete any task for this project
@@ -127,7 +158,7 @@ Montola, M. & Waern, A. (2006). Participant roles in socially expanded games. In
 
 Kumar, P. (2005). Effective Use of Gantt chart for Managing Large Scale Projects. Cost engineering [online]. 47(7):14-21. Available from: Business Source Complete, Ipswich, MA. [Accessed November 3, 2015]
 
-Denzin, N. K. & Yvonna, S. (2005) The Sage Handbook of Qualitative Research. 3rd Edition. Thousand Oaks, CA: Sage. 
+Denzin, N. K. & Yvonna, S. (2005) The Sage Handbook of Qualitative Research. 3rd Edition. Thousand Oaks, CA: Sage.
 
 Taylor, R., Schofield, G., Shearer, J., Wallace, J., Wright, P., Boulanger, P., & Olivier, P. (2011). humanaquarium: exploring audience, participation, and interaction. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 1117-1122). ACM.
 
@@ -136,15 +167,15 @@ Notes
 Test scenario:
 User plays a game of Mario Kart/Rocket league 3 times, 1st time they play on their own (only other participants will be the other players), 2nd time they play with a small crowd (3-7 people) watching, 3rd time they play a game that is being streamed with a text chat on the same screen as the game play (crowd number could variate)
 The results of each scenario will be recorded and displayed against each other to see if the varying factors of the different crowds have any effect on the player’s performance during game play
-The results may look for things such as: did the player do better because the crowd provided some key information to the player, did they do worse because the crowd provided false information, did they do better because of positive encouragement from the crowd, did they do worse because of negative encouragement, did they try harder to win when there was a crowd, were they happier/sadder when the won/lost a game when the crowd was/wasn’t there, did the crowd’s reaction make them want to play the game more? (To get better to keep them encouraging them or to prove to them that they can do better), did the people in the crowd effect the way they played? (If its people they knew vs people they didn’t know would they play differently or would that effect their game play in any way? Does the age or sex of the crowd also become a factor, if the crowd is a similar age to the player would that affect them in any way, if the crowd had never seen or played the game could that also effect the player because of the crowds reactions not being that of a typical crowd member where they would most likely fully understand the rules and what is going on in the game), did the type of crowd effect the player (real people in the room with them vs a crowd of real people that can only communicate with them online through text chat), 
+The results may look for things such as: did the player do better because the crowd provided some key information to the player, did they do worse because the crowd provided false information, did they do better because of positive encouragement from the crowd, did they do worse because of negative encouragement, did they try harder to win when there was a crowd, were they happier/sadder when the won/lost a game when the crowd was/wasn’t there, did the crowd’s reaction make them want to play the game more? (To get better to keep them encouraging them or to prove to them that they can do better), did the people in the crowd effect the way they played? (If its people they knew vs people they didn’t know would they play differently or would that effect their game play in any way? Does the age or sex of the crowd also become a factor, if the crowd is a similar age to the player would that affect them in any way, if the crowd had never seen or played the game could that also effect the player because of the crowds reactions not being that of a typical crowd member where they would most likely fully understand the rules and what is going on in the game), did the type of crowd effect the player (real people in the room with them vs a crowd of real people that can only communicate with them online through text chat),
 Tests: solo game, solo & physical observers (friends), solo & twitch (online) observers (possibly friends too), lecture hall sized crowd
 
 What should the end goal be?
-A game designed where crowd participation is a key element? 
+A game designed where crowd participation is a key element?
 Game designed could be a party game style of game (jackbox, Mario kart, smash)
 
 (Note – possibly investigate the impact that lets plays and streams have on the game industry market, are people more or less likely to purchase a game because they have already seen someone else play it)
-Factors in different games that can affect the game differently: music in horror games, trivia games have different sounds that play after a player does good or bad indicating that they have done so, some games give players doing better or worse better items, equipment or boosts depending on how well they’re doing (winning and losing streak in gta 5, shitty items for 1st place and good items for people in last in Mario kart etc…), 
+Factors in different games that can affect the game differently: music in horror games, trivia games have different sounds that play after a player does good or bad indicating that they have done so, some games give players doing better or worse better items, equipment or boosts depending on how well they’re doing (winning and losing streak in gta 5, shitty items for 1st place and good items for people in last in Mario kart etc…),
 http://delivery.acm.org/10.1145/2160000/2159391/p188-consalvo.pdf?ip=212.219.220.116&id=2159391&acc=ACTIVE%20SERVICE&key=BF07A2EE685417C5%2E0BEB79437DAF5AB9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=556269145&CFTOKEN=81733571&__acm__=1445955738_940c5e25a3e16b7e1ec2e05068ee1d25
 http://homepages.dcc.ufmg.br/~arlei/pubs/msdn12.pdf
 NON-PLAYERS
