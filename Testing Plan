@@ -1,12 +1,32 @@
 General
 
+?? Conditions ??
+
+A- Solo :: playing on your own, no crowd feedback at all (except the in-game audio)
+
+B - Friends :: crowd feedback (audio only) from small group (7ish), of friends observing from another (shared) space
+
+C - Large Crowd :: crowd feedback (audio only) from large group (7+) people, including friends, observing the stream from another (shared) space
+
+D - pre-recorded :: audio only
+
+
+Streamed :: crowd feedback (text only) from people observing the stream? - which people????
+
+
+
+A vs B
+
+B vs C
+
+
 The game being played will be Rocket League.
 
 Players will be given 2 minutes in the game with no bots to get a feel for the game and the controls
 
 The game data (quantitative) recorded will be: 
 
-•	Game duration
+•	Game duration - fix
 •	Final team score
 •	Player score
 •	Player goals
@@ -45,10 +65,4 @@ All bots on the second highest difficulty (find out what that is)
 
 
 
-Solo
 
-Friends
-
-Streamed
-
-Large Crowd
