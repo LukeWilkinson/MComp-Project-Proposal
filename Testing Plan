@@ -1,12 +1,50 @@
 General
 
+Test subjects: 8 (x1 – x8)
+
+Tests:
+•	Solo – Playing on your own, no crowd feedback, only audio will be game audio
+
+•	Friends (audio only) – Two players at a time playing tournament style rules, crowd audio feedback will be streamed to the players, the first game and the winners game will have the crowd being manipulated with x1–x2 and x1-x3(diagram below), the second game and the losers game will not be manipulated with x3-x4 and x2-x4.
+
+•	Friends (audio and visual) – Two players at a time playing tournament style rules, crowd will be physically observing the players, giving audio and visual feedback instantly, the first game and the winners game will have the crowd being manipulated with x1–x2 and x1-x3(diagram below), the second game and the losers game will not be manipulated with x3-x4 and x2-x4. (x1-x4 are replaced with second group x5-x8)
+
+•	Crowd (audio only) – similar again to friends, but the players may not know who all of the crowd is, in this test the players will not see the crowd, so there’s even more anonymity of the crowd, the game will be streamed to the crowd and the crowd audio will be streamed to the player (skype), **should the crowds be manipulated for the same players/games?**, same style tournament bracket for gameplay
+
+•	Crowd (audio and visual) – same as last crowd, in this test the play-ers will see the crowd, so there’s less anonymity of the crowd to the players, adding the visual factor to the crowd, to see if the audi-ence being present during game play will cause the player to play/act differently, **should the crowds be manipulated for the same play-ers/games?**, same style tournament bracket for gameplay, different players again x5-x8
+
+
+ 
+Diagram (visual in word, text in git):
+
+X1 vs X2 – winner(X1) – winners game – X1 vs X3
+
+X3 vs X4 – winner(X3) – losers game – X2 vs X4
+
+
+
+With the friends and crowd being split into audio and visual I’m not 100% sure if the pre-recorded audio only is needed, could still be implemented if there is time
+
+More games could also be added to the tournament if the game time seems too insignificant, there are still more game possibilities including rematches or best of 3 (also x1-x4 and x2-x3 never happens)
+
+
+
+
+OLD NOTES BELOW
+
+
+////////////////////////////////////////////////////////////////////
+
+
+General
+
 ?? Conditions ??
 
 A- Solo :: playing on your own, no crowd feedback at all (except the in-game audio)
 
 B - Friends :: crowd feedback (audio only) from small group (7ish), of friends observing from another (shared) space
 
-C - Large Crowd :: crowd feedback (audio only) from large group (7+) people, including friends, observing the stream from another (shared) space
+C - Large Crowd :: crowd feedback (audio only) from large group (7+) peo-ple, including friends, observing the stream from another (shared) space
 
 D - pre-recorded :: audio only
 
@@ -61,6 +99,7 @@ If there is only 1 game played per person, then there should probably be more te
 I think the teams should be even
 2 players per team, player and bot vs 2 bots.
 All bots on the second highest difficulty (find out what that is)
+
 
 
 
